@@ -1,7 +1,8 @@
 # HELLO
 IT Is a sample repository
 name:jyothi
-project; version control
+project:version control
 college:anmk
-course;mca
+course:mca
 address:rajampet
+
